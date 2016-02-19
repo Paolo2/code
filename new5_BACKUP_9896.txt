@@ -1,8 +1,0 @@
-Un altro file
-<<<<<<< HEAD
-ho cambiato la riga inserita
-(questa è la correzione)
-=======
-questa è la riga del branch modified
-(questa è la correzione)
->>>>>>> modified
