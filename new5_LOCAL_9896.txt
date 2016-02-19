@@ -1,0 +1,3 @@
+Un altro file
+ho cambiato la riga inserita
+(questa è la correzione)
