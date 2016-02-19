@@ -1,3 +1,2 @@
 Un altro file
-questa è la riga del branch modified, che ho deciso di tenere
-(questa è la correzione)
+ho aggiunto questa riga dal sito web
